@@ -8,6 +8,7 @@ This is a sorting algorithms library implemented in C. It contains the following
 - Bubble sort improved
 - Heap sort
 - Merge sort
+- Shell sort
 - Quick sort
 
 Use it as you see fit!
