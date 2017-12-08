@@ -1,6 +1,3 @@
-
-
-
 void insertion_sort(int v[], int n);
 void selection_sort_improved(int v[], int n);
 void bubble_sort_improved(int v[], int n);
