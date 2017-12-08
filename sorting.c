@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "sorting.h"
 
-
 void insertion_sort(int v[], int n){ //ok
     int i, j, x;
     for (i = 1; i < n; i++){
