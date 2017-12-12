@@ -18,4 +18,4 @@ The source code [sorting.c] and the header file [sorting.h] are available.
 ANY COMMENTS AND CONTRIBUTIONS ARE MUCH WELCOME!
 
 ### Copyright and license
-This code is distributed under [the MIT license](https://github.com/sindelio/sorting_in_C/blob/master/LICENSE)
+This code is distributed under [the MIT license](https://github.com/sindelio/sorting_in_C/blob/master/LICENSE).
