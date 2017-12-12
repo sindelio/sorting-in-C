@@ -12,4 +12,10 @@ This project is a sorting algorithms library implemented in C. It contains the f
 - Quick sort
 
 The source code [sorting.c] and the header file [sorting.h] are available.
-Use it as you see fit!
+
+### Contributions
+
+ANY COMMENTS AND CONTRIBUTIONS ARE MUCH WELCOME!
+
+### Copyright and license
+This code is distributed under [the MIT license](https://github.com/sindelio/sorting_in_C/blob/master/LICENSE)
